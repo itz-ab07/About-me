@@ -2,9 +2,9 @@
 <h3 align="center">An enthusiastic developer</h3>
 
 - 🔭 I’m currently working on **Web Development & Open Source**
-- 🌱 I’m currently learning **JavaScript, React, Git & GitHub**
+- 🌱 I’m currently learning **JavaScript and React**
 - 💬 Ask me about **DSA, Web Dev, or Open Source**
-- 👯 I’m looking to collaborate on **Social Summer of Code Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: bhutaniansh07@gmail.com
 - ⚡ Fun fact: I love night drives and building cool UIs!
 
